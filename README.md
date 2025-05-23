@@ -36,6 +36,8 @@
 - **Game Development**: Generate concept art, textures, and assets to streamline your development pipeline.
 - **Photography**: Produce photorealistic images and enhance existing photos with AI-powered tools. 
 - **Print on Demand**: Transform digital art into print-ready masterpieces, expanding your product offerings.
+![leoHomeUpdated-oct2024 (1)](https://github.com/user-attachments/assets/0a65c1c8-761d-4b1b-a5f7-c84e5dd1c92a)
+
 
 ---
 
@@ -47,6 +49,19 @@
 - **Disk Space**: 300 MB available
 
 ---
+
+## 🤝 Community & Support
+
+Join our vibrant community to share your creations, seek assistance, and collaborate with fellow creators.
+	•	Community Forum
+	•	Support
+
+ ---
+
+
+
+## 📄 License
+This project is licensed under the MIT License.
 
 ## 📦 Installation (For Developers)
 1. **Download** the latest release from this repository.  
