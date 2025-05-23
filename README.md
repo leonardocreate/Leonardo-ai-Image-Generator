@@ -1,6 +1,6 @@
 # Leonardo-ai-Image-Generator
 
-# 🎨 Leonardo.AI — AI-Powered Creative Suite
+# 🎨 Leonardo.AI — AI-Powered Creative Suite full Access
 
 **Leonardo.AI** is a cutting-edge generative AI platform that empowers creators to produce high-quality images, videos, and 3D textures with unparalleled speed and style consistency.
 
