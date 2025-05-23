@@ -4,7 +4,16 @@
 
 **Leonardo.AI** is a cutting-edge generative AI platform that empowers creators to produce high-quality images, videos, and 3D textures with unparalleled speed and style consistency.
 
-![Leonardo.AI Banner](https://example.com/banner.png)
+<img width="1177" alt="Снимок экрана 2025-05-23 в 10 26 44" src="https://github.com/user-attachments/assets/af511276-e64e-41b2-a2d4-999982a94f32" />
+
+
+<p align="center">
+  <a href="https://www.comfy.org/download" target="_blank">
+    <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-LeonardoAI-1f8ceb?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Download LeonardoAI" height="60">
+  </a>
+</p> 
+
+
 
 ---
 
